@@ -37,7 +37,7 @@ img {
   position: relative;
 
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   gap: 86px;
 }
 
@@ -73,6 +73,14 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.btn--left {
+  left: 0;
+}
+
+.btn--right {
+  right: 0;
 }
 
 .button-icon {
