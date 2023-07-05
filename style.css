@@ -115,3 +115,7 @@ img {
   border-radius: 50%;
   cursor: pointer;
 }
+
+.dot--fill {
+  background-color: #087f5b;
+}
