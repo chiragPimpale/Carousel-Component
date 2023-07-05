@@ -33,3 +33,19 @@ img {
   border-radius: 8px;
   color: #fff;
 }
+
+.testimonial-text {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 32px;
+}
+
+.testimonial-name {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.job {
+  font-size: 12px;
+}
